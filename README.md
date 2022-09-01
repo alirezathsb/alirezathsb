@@ -115,7 +115,7 @@
 </tr>
 <tr>
     <td align='center' width="190">
-         <a href="https://www.linux.com/">
+         <a href="https://www.linux.org/">
              <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
     </td>
     <td align='center' width="190">
