@@ -66,7 +66,7 @@
 <h2 align="center"> 👨‍💻 Language And Tools </h2>
 <p align="center">
 
-<table width="100" table align='center'>
+<table align='center'>
 <tr>
     <td align='center' width="190">
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
@@ -172,12 +172,12 @@
 </p>
 
 <p align="center"> 
-<img height="180em" img align="center" src="https://github-readme-stats.vercel.app/api?username=alirezathsb&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="alirezathsb" /> 
-<img height="180em" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezathsb&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="alirezathsb" />
+<img height="150em" img align="center" src="https://github-readme-stats.vercel.app/api?username=alirezathsb&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="alirezathsb" /> 
+<img height="150em" img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alirezathsb&show_icons=true&theme=gruvbox&count_private=true&include_all_commits=true" alt="alirezathsb" />
 </p>
     
 <p align="center">    
-<img height="180em" img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezathsb&theme=gruvbox&count_private=true&include_all_commits=true" alt="alirezathsb"/>
+<img height="150em" img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alirezathsb&theme=gruvbox&count_private=true&include_all_commits=true" alt="alirezathsb"/>
 
 </p>
 
