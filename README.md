@@ -11,7 +11,7 @@
 <br>
 
 <p align="center">
-    <img src="IMG_20171116_193627-1.jpg" width="180">
+    <img src="Alireza_Tahmasebipour.jpg" width="180">
 </p>
 <h2 align="center"> Hey, I am Aditya Oberai (he/him)👋 </h2>
 <h3 align="center"> DevRel🥑, Communities👨‍👩‍👧‍👦 and Hackathons👨‍💻 </h3>
