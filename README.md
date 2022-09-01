@@ -30,7 +30,7 @@
         <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF9ulVWiVmlug/company-logo_100_100/0/1519864646284?e=1669852800&v=beta&t=2HbUrwg1pkICJDn8dqFhy8tikpHf6X7TOrnuC2sNKMY" weight="80" height="80">
     </td>
     <td align='left'>
-        <li><b>Master of Science (M.Sc) in Computer Engineering - Secure Computing</b></li>
+        <b>Master of Science (M.Sc) in Computer Engineering - Secure Computing</b>
         <div>
           <ul>
             University of Isfahan
