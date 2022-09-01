@@ -24,6 +24,18 @@
 <h2 align="center"> 🎓 Education </h2>
 <p align="center">
 
+Master of Science (M.Sc), Computer Engineering, Secure Computing
+<div>
+  <ul>
+    <li>University of Isfahan</li>
+  </ul>
+  <ul>
+    <i>Sep 2021 - Sep 2024</i>
+  </ul>
+</div>
+
+
+    
 </p>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
