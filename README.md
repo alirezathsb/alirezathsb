@@ -50,76 +50,8 @@
 <br>
 
 <h2 align="center"> 👨‍💻 Language And Tools </h2>
-<p align="center">
 
-<table align='center'>
-<tr>
-    <td align='center' width="190">
-         <a href="https://flutter.dev/">
-             <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a>
-    </td>
-    <td align='center' width="190">
-        <a href="https://dart.dev/">
-            <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a>
-    </td>
-    <td align='center' width="190">
-        <a href="https://developer.android.com/studio/">
-        <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/10/10/android-studio-logo-hero_ITvLb9SXwyXu.png?q=50&fit=contain&w=1500&h=&dpr=1.5">         </a>
-    </td>
-    <td align='center' width="190">
-        <a href="https://code.visualstudio.com/">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
-    </td>
-     <td align='center' width="190">
-         <a href="https://kotlinlang.org/">
-             <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a>
-    </td>
-</tr>
-<tr>
-    <td align='center'  width="190">
-         <a href="https://www.java.com/">
-             <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a>
-    </td>
-    <td align='center' width="190">
-         <a href="https://www.sqlite.org/">
-             <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
-    </td>
-    <td align='center' width="190">
-        <a href="https://firebase.google.com/">
-            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
-    </td>
-    <td align='center' width="190">
-        <a href="https://www.mysql.com/">
-            <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
-    </td>
-    <td align='center' width="190">
-        <a href="https://www.mongodb.com/">
-            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
-    </td>
-</tr>
-<tr>
-    <td align='center' width="190">
-         <a href="https://www.linux.org/">
-             <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
-    </td>
-    <td align='center' width="190">
-        <a href="https://git-scm.com/">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
-    </td>
-    <td align='center' width="190">
-        <a href="https://slack.com/">
-            <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></a>
-    </td>
-    <td align='center' width="190">
-         <a href="https://trello.com/">
-             <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></a>
-    </td>
-    <td align='center' width="190">
-        <a href="https://www.docker.com/">
-             <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
-    </td>
-</tr>
-</table>
+<p align="center"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
