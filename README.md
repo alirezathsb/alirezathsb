@@ -71,53 +71,68 @@
 <table align='center'>
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg">
+         <a href="https://flutter.dev/">
+             <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg">
+        <a href="https://dart.dev/">
+            <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/10/10/android-studio-logo-hero_ITvLb9SXwyXu.png?q=50&fit=contain&w=1500&h=&dpr=1.5">
+        <a href="https://developer.android.com/studio/">
+        <img src="https://static1.anpoimages.com/wordpress/wp-content/uploads/2020/10/10/android-studio-logo-hero_ITvLb9SXwyXu.png?q=50&fit=contain&w=1500&h=&dpr=1.5">         </a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg">
+        <a href="https://code.visualstudio.com/">
+        <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></a>
     </td>
      <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
+         <a href="https://kotlinlang.org/">
+             <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></a>
     </td>
 </tr>
 <tr>
     <td align='center'  width="190">
-        <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg">
+         <a href="https://www.java.com/">
+             <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg">
+         <a href="https://www.sqlite.org/">
+             <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg">
+        <a href="https://firebase.google.com/">
+            <img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+        <a href="https://www.mysql.com/">
+            <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
+        <a href="https://www.mongodb.com/">
+            <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a>
     </td>
 </tr>
 <tr>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg">
+         <a href="https://www.linux.com/">
+             <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+        <a href="https://git-scm.com/">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg">
+        <a href="https://slack.com/">
+            <img src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg">
+         <a href="https://trello.com/">
+             <img src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></a>
     </td>
     <td align='center' width="190">
-        <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
+        <a href="https://www.docker.com/">
+             <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a>
     </td>
 </tr>
 </table>
