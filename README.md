@@ -23,14 +23,7 @@
 
 <h2 align="center"> 🎓 Education </h2>
 <p align="left">        
-
-<table align='center'>
-<tr>
-    <td align='center'>
-        <a href="https://ui.ac.ir/">
-        <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF9ulVWiVmlug/company-logo_100_100/0/1519864646284?e=1669852800&v=beta&t=2HbUrwg1pkICJDn8dqFhy8tikpHf6X7TOrnuC2sNKMY" weight="80" height="80"></a>
-    </td>
-    <td align='left'>
+    <div>
         <b>Master of Science (M.Sc) in Computer Engineering - Secure Computing</b>
         <div>
           <ul>
@@ -39,14 +32,10 @@
           <ul>
             <i>Sep 2021 - Present</i>
           </ul>
-        </div>      
-</tr>
-<tr>
-     <td align='center'>
-         <a href="http://araku.ac.ir/">
-        <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHnWPYHF6cQoA/company-logo_100_100/0/1612254156554?e=1669852800&v=beta&t=v8LTyexxSIzy64g-T3CM0_16YywpMvPsUah0596Hcsg" weight="80" height="80"></a>
-    </td>
-    <td align='left'>
+        </div>
+   </div> 
+    
+    <div>
         <b>Bachelor of Science (B.Sc) in Electrical Engineering - Telecommunications</b>
         <div>
           <ul>
@@ -56,10 +45,7 @@
             <i>Sep 2016 - July 2021</i>
           </ul>
         </div>      
-</tr>
-</table>
-
-    
+    </div>  
 </p>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
