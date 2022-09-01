@@ -13,13 +13,18 @@
 <p align="center">
     <img src="Alireza_Tahmasebipour.jpg" width="180">
 </p>
-<h2 align="center"> Hey, I am Aditya Oberai (he/him)👋 </h2>
-<h3 align="center"> DevRel🥑, Communities👨‍👩‍👧‍👦 and Hackathons👨‍💻 </h3>
 
 <h1 align="center">Hi 👋, I'm Alireza Tahmasebipour</h1>
-<p align="center">Python Programmer | Web Developer | Data Science Enthusist | Blogger | Freelancer | Math Lover | Author</p>
+<p align="center">Mobile Developer | Freelancer | M.Sc. student in Computer Engineering</p>
 <h3 align="center">A passionate mobile developer from Iran</h3>
 
+<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
+<br>
+
+<h2 align="center"> 🎓 Education </h2>
+<p align="center">
+
+</p>
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br>
