@@ -45,7 +45,7 @@
         <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHnWPYHF6cQoA/company-logo_100_100/0/1612254156554?e=1669852800&v=beta&t=v8LTyexxSIzy64g-T3CM0_16YywpMvPsUah0596Hcsg" weight="80" height="80">
     </td>
     <td align='left'>
-        <li><b>Bachelor of Science (B.Sc) in Electrical Engineering - Telecommunications</b></li>
+        <b>Bachelor of Science (B.Sc) in Electrical Engineering - Telecommunications</b>
         <div>
           <ul>
             Arak University
