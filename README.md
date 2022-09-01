@@ -22,18 +22,40 @@
 <br>
 
 <h2 align="center"> 🎓 Education </h2>
-<p align="center">
+<p align="left">        
 
-Master of Science (M.Sc), Computer Engineering, Secure Computing
-<div>
-  <ul>
-    <li>University of Isfahan</li>
-  </ul>
-  <ul>
-    <i>Sep 2021 - Sep 2024</i>
-  </ul>
-</div>
-
+<table align='center'>
+<tr>
+    <td align='center'>
+        <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF9ulVWiVmlug/company-logo_100_100/0/1519864646284?e=1669852800&v=beta&t=2HbUrwg1pkICJDn8dqFhy8tikpHf6X7TOrnuC2sNKMY" weight="80" height="80">
+    </td>
+    <td align='left'>
+        <li><b>Master of Science (M.Sc) in Computer Engineering - Secure Computing</b></li>
+        <div>
+          <ul>
+            University of Isfahan
+          </ul>
+          <ul>
+            <i>Sep 2021 - Present</i>
+          </ul>
+        </div>      
+</tr>
+<tr>
+     <td align='center'>
+        <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHnWPYHF6cQoA/company-logo_100_100/0/1612254156554?e=1669852800&v=beta&t=v8LTyexxSIzy64g-T3CM0_16YywpMvPsUah0596Hcsg" weight="80" height="80">
+    </td>
+    <td align='left'>
+        <li><b>Bachelor of Science (B.Sc) in Electrical Engineering - Telecommunications</b></li>
+        <div>
+          <ul>
+            Arak University
+          </ul>
+          <ul>
+            <i>Sep 2016 - July 2021</i>
+          </ul>
+        </div>      
+</tr>
+</table>
 
     
 </p>
