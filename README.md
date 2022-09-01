@@ -27,7 +27,7 @@
 <table align='center'>
 <tr>
     <td align='center'>
-        <a href="https://ui.ac.ir/" target="_newtab">
+        <a href="https://ui.ac.ir/">
         <img src="https://media-exp1.licdn.com/dms/image/C4E0BAQF9ulVWiVmlug/company-logo_100_100/0/1519864646284?e=1669852800&v=beta&t=2HbUrwg1pkICJDn8dqFhy8tikpHf6X7TOrnuC2sNKMY" weight="80" height="80"></a>
     </td>
     <td align='left'>
@@ -43,7 +43,7 @@
 </tr>
 <tr>
      <td align='center'>
-         <a href="http://araku.ac.ir/" target="_blank">
+         <a href="http://araku.ac.ir/">
         <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQHnWPYHF6cQoA/company-logo_100_100/0/1612254156554?e=1669852800&v=beta&t=v8LTyexxSIzy64g-T3CM0_16YywpMvPsUah0596Hcsg" weight="80" height="80"></a>
     </td>
     <td align='left'>
