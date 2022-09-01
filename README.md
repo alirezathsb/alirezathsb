@@ -53,15 +53,13 @@
 ![Android Studio](https://img.shields.io/badge/android_studio-%FF2D20.svg?style=for-the-badge&logo=androidstudio&logoColor=white&color=FF2D20)
 ![Kotlin](https://img.shields.io/badge/kotlin-%4479A1.svg?style=for-the-badge&logo=kotlin&logoColor=white&color=4479A1)
 ![Java](https://img.shields.io/badge/java-%F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black&color=F7DF1E)
-
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![SQLite](https://img.shields.io/badge/sqlite-%23039BE5.svg?style=for-the-badge&logo=sqlite) 
+![Docker](https://img.shields.io/badge/docker-%23039BE5.svg?style=for-the-badge&logo=docker) 
 ![Linux](https://img.shields.io/badge/linux-%FCC624.svg?style=for-the-badge&logo=linux&logoColor=black&color=FCC624)
-![HTML](https://img.shields.io/badge/html5-%3776AB.svg?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
-![CSS](https://img.shields.io/badge/css3-%1572B6.svg?style=for-the-badge&logo=css3&logoColor=white&color=1572B6)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%3776AB.svg?style=for-the-badge&logo=bootstrap&logoColor=white&color=563D7C)
 ![GIT](https://img.shields.io/badge/git-%3776AB.svg?style=for-the-badge&logo=git&logoColor=white&color=F05032)
-![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white&color=3776AB)
-![Java](https://img.shields.io/badge/java-%7396.svg?style=for-the-badge&logo=java&logoColor=white&color=007396)
-![C](https://img.shields.io/badge/c-%3776AB.svg?style=for-the-badge&logo=c&logoColor=white&color=A8B9CC)
+
 
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
