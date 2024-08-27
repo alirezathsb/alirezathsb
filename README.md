@@ -18,34 +18,6 @@
 <!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
 <br>
 
-<h2 align="center"> 🎓 Education </h2>
-<p align="left">        
-        <b>Master of Science (M.Sc) in Computer Engineering - Secure Computing</b>
-        <div>
-          <ul>
-            University of Isfahan
-          </ul>
-          <ul>
-            <i>Sep 2021 - Present</i>
-          </ul>
-        </div>
-</p>
-
-<p align="left"> 
-        <b>Bachelor of Science (B.Sc) in Electrical Engineering - Telecommunications</b>
-        <div>
-          <ul>
-            Arak University
-          </ul>
-          <ul>
-            <i>Sep 2016 - July 2021</i>
-          </ul>
-        </div>      
-</p>
-
-<!-- ----------------------------------------------------------------------------------------------------------------------------------------------------- -->
-<br>
-
 <h2 align="center"> 👨‍💻 Language And Tools </h2>
 <div align="center">
 
